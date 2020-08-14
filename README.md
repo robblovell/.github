@@ -1,4 +1,4 @@
-# Embeddedartistry templates
+# Robb's templates
 
 This repository contains templates that are useful for open-source projects, including:
 
