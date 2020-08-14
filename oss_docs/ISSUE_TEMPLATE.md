@@ -1,4 +1,4 @@
-# Issue Template (from root of .github project ISSUE_TEMPLATE.md)
+# Issue Template (from root of docs folder in .github project ISSUE_TEMPLATE.md)
 
 ---
 name: Issue Report
