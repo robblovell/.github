@@ -21,7 +21,3 @@ If applicable, provide a sample code snippet that demonstrates the gist of featu
 ## Context
 
 Please provide any relevant information about your setup, which will help us ensure the requested support will work for you.
-
-* Project Version:
-* Operating System:
-* Toolchain version:

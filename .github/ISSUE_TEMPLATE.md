@@ -1,4 +1,4 @@
-# Expected Behavior
+# Expected Behavior (ISSUE_TEMPLATE.md from .github)
 
 Please describe the behavior you are expecting
 

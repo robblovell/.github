@@ -25,3 +25,12 @@ A clear and concise description of what you expected to happen.
 
 ### Screenshots:
 If applicable, add screenshots to help explain your problem.
+
+## Checklist
+
+- [ ] I am running the latest version
+- [ ] I checked the documentation and found no answer
+- [ ] I checked to make sure that this issue has not already been filed
+- [ ] I'm reporting the issue to the correct repository (for multi-repository projects)
+- [ ] I have provided sufficient information for the team
+

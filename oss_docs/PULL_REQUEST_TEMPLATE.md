@@ -1,6 +1,6 @@
-# Pull Request Template
+# Pull Request Template 1
 
-## Description
+## Descriptiono# Description (PULL_REQUEST_TEMPLATE.md from root of docs .github repo)
 
 Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
 

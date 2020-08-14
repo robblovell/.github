@@ -1,6 +1,6 @@
-# Pull Request Template
+# Pull Request Template 2
 
-## Description
+## Descriptiono# Description (PULL_REQUEST_TEMPLATE.md from PULL_REQUEST_TEMPLATE)
 
 Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
 
