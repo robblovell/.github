@@ -1,27 +1,27 @@
 ---
-name: Feature Request
-about: Use this template for requesting new features
-title: "[FEATURE NAME]"
-labels: enhancement
-assignees: 
+name: Feature
+about: Create a new feature
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
-## Expected Behavior
+### Business Requirements:
+This is the "why" for the feature. The high-level requirements.
 
-Please describe the behavior you are expecting
+### User Story:
+As a...
+I want to...
+So that...
 
-## Current Behavior
+### Acceptance Criteria:
+1. Given
+When
+Then
 
-What is the current behavior?
+### Technical Requirements:
+This is the "how" for the feature. What do we need to implement to meet the requirements?
 
-## Sample Code
-
-If applicable, provide a sample code snippet that demonstrates the gist of feature you're proposing. This can be either from a usage standpoint, or an implementation standpoint.
-
-## Context
-
-Please provide any relevant information about your setup, which will help us ensure the requested support will work for you.
-
-* Project Version:
-* Operating System:
-* Toolchain version:
+### UX/UI Design:
+Optionally add wireframes, mockups, prototypes, etc.
