@@ -2,7 +2,7 @@
 name: Chore
 about: Add a new chore
 title: ''
-labels: ''
+labels: chore
 assignees: ''
 
 ---

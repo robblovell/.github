@@ -2,7 +2,7 @@
 name: Epic
 about: An epic is a large feature that cannot be completed in a single sprint
 title: ''
-labels: ''
+labels: epic
 assignees: ''
 
 ---

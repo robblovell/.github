@@ -1,8 +1,8 @@
 ---
 name: Question
 about: Use this template to ask a question about the project
-title: "[QUESTION SUMMARY]"
-labels: 
+title: ''
+labels: question
 assignees: 
 ---
 

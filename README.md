@@ -1,26 +1,17 @@
 # Robb's templates
 
-This repository contains templates that are useful for open-source projects, including:
+This repository contains templates that are useful for projects:
 
-* Documentation (README, CONTRIBUTING, GitHub templates)
+The ".github" directory contains the default templates to be used if a repo doesn't have a .github driectory. This directory is used by github as a default for all repos.
 
-For more on project documentation:
+The 'templates' directory contains useful things to use in your repo (This directory is not used by github for defaults):
 
-* [Your Project is Great, So Let's Make Your README Great Too](https://embeddedartistry.com/blog/2017/11/27/your-project-is-great-so-lets-make-your-readme-great-too/)
-* [Get Others Involved in Your Project with a CONTRIBUTING Guide](https://embeddedartistry.com/blog/2017/12/11/get-others-involved-in-your-project-with-a-contributing-guide/)
+* A README.md template
+* A CODE_OF_CONDUCT.md template
+* A CONTRIBUTING.md template
+* A set of issue templates in ISSUE_TEMPLATE that can be copied to your .github directory to give you more options to choose from.
+* A standard ISSUE_TEMPLATE.md to copy to the .github directory in your project if you just want a simple default.
+* A standard PULL_REQUEST.md to copy to the .github directory in your project if you just want a simple default.
 
-For more information on these templates:
+Also included is an MIT "LICENSE" file.
 
-* [Embeddedartistry README Template](https://embeddedartistry.com/blog/2017/11/30/embeddedartistry-readme-template/)
-* [Embeddedartistry CONTRIBUTING Template](https://embeddedartistry.com/blog/2017/12/14/embeddedartistry-contributing-template/)
-* [A GitHub Issue Template for Your Projects](https://embeddedartistry.com/blog/2017/08/18/a-github-issue-template-for-your-projects/)
-* [A GitHub Pull Request Template for Your Projects](https://embeddedartistry.com/blog/2017/08/04/a-github-pull-request-template-for-your-projects/)
-* [A GitHub Pull Request Template for the CCC Process](https://embeddedartistry.com/blog/2017/08/11/a-github-pull-request-template-for-the-ccc-process/)
-
-Resources that can serve as inspiration for creating your own documentation:
-
-* [Open Source Contribution Guide](https://embeddedartistry.com/fieldatlas/open-source-contribution-guide/)
-* [Source Control Commit Guidelines](https://embeddedartistry.com/fieldatlas/source-control-commit-guidelines/)
-* [Code Change Control (CCC) Template](https://embeddedartistry.com/blog/2017/03/10/code-change-control-ccc-template/)
-* [Embeddedartistry's GitHub Process](https://embeddedartistry.com/fieldatlas/embeddedartistry-github-process/)
-* [Embeddedartistry Code of Conduct](https://embeddedartistry.com/fieldatlas/embeddedartistry-code-of-conduct/)

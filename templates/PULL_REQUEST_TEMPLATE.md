@@ -1,7 +1,4 @@
-Tempate 3
-# Pull Request Template 3
-
-## Descriptiono# Description (PULL_REQUEST_TEMPLATE.md from PULL_REQUEST_TEMPLATE)
+## Description
 
 Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
 
@@ -23,8 +20,7 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 - [ ] Test A
 - [ ] Test B
 
-**Test Configuration(s)**:
-
+**Test Configuration**:
 * Firmware version:
 * Hardware:
 * Toolchain:

@@ -1,53 +1,35 @@
-Template 1
-# Issue Template (from root of docs folder in .github project ISSUE_TEMPLATE.md)
-
 ---
-name: Issue Report
-about: Use this template to report a problem
-title: "[VERSION] [PROBLEM SUMMARY]"
+name: Bug
+about: Report a new bug
+title: ''
 labels: bug
-assignees: 
+assignees: ''
+
 ---
 
-## Prerequisites
+### Summary:
+A clear and concise description of what the bug is.
 
-Please answer the following questions for yourself before submitting an issue. **YOU MAY DELETE THE PREREQUISITES SECTION.**
+### To Reproduce:
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-## Expected Behavior
+### Observed Results:
+A clear and concise description of what happened that was not expected.
 
-Please describe the behavior you are expecting
+### Expected Behavior:
+A clear and concise description of what you expected to happen.
 
-## Current Behavior
-
-What is the current behavior?
-
-## Context
-
-Please provide any relevant information about your setup. This is important in case the issue is not reproducible except for under certain conditions.
-
-* Firmware Version:
-* Operating System:
-* SDK version:
-* Toolchain version:
-
-## Failure Information (for bugs)
-
-Please help provide information about the failure if this is a bug. If it is not a bug, please remove the rest of this template.
-
-### Steps to Reproduce
-
-Please provide detailed steps for reproducing the issue.
-
-1. step 1
-2. step 2
-3. you get it...
+### Screenshots:
+If applicable, add screenshots to help explain your problem.
 
 ### Failure Logs
-
 Please include any relevant log snippets or files here.
 
 ## Checklist
-
 - [ ] I am running the latest version
 - [ ] I checked the documentation and found no answer
 - [ ] I checked to make sure that this issue has not already been filed
