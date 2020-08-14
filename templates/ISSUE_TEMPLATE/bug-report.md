@@ -1,5 +1,5 @@
 ---
-name: Bug
+name: "\U0001F41B Bug Report"
 about: Report a new bug
 title: ''
 labels: bug
@@ -35,3 +35,4 @@ Please include any relevant log snippets or files here.
 - [ ] I checked to make sure that this issue has not already been filed
 - [ ] I'm reporting the issue to the correct repository (for multi-repository projects)
 - [ ] I have provided sufficient information for the team
+
